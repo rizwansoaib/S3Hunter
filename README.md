@@ -9,6 +9,6 @@ Crawl Files From misconfigured s3
           -h, --help         show this help message and exit
           -u URL, --url URL  url of S3 e.g. https://s3.ap-
                              south-1.amazonaws.com/S3name/
-          -csv, --csv        Save in csv format
+          -c, --csv          Save in csv format
           -o, --output       Download All files in local Systems
 
