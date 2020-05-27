@@ -1,0 +1,4 @@
+csv
+requests
+bs4
+argparse
