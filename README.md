@@ -20,8 +20,14 @@ Download All Files From misconfigured s3
               git clone https://github.com/rizwansoaib/S3Hunter.git
               cd S3Hunter
               pip3 install -r requirements.txt
-              python3 s3hunter.py 
-              python3 arg.py -u s3url 
+              python3 s3hunter.py -u s3url 
+             
+              
+  ## Example
+  
+               python3 s3hunter.py -u https://pys3hunter.s3.ap-south-1.amazonaws.com/ -c -o
+
+                
 
 
           
