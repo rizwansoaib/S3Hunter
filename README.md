@@ -32,7 +32,7 @@ Download All Files From misconfigured s3
                python3 s3hunter.py -u https://pys3hunter.s3.ap-south-1.amazonaws.com/ -c -o
 
                 
-   -o:    Download All files
-   -c:    Build Dataset with File Name,LastModified,Size
+   **-o:    Download All files**
+   **-c:    Build Dataset with File Name,LastModified,Size**
 
           
