@@ -33,6 +33,7 @@ Download All Files From misconfigured s3
 
                 
    **-o:    Download All files**
+   
    **-c:    Build Dataset with File Name,LastModified,Size**
 
           
