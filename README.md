@@ -1,5 +1,5 @@
 # S3Hunter
-Crawl Files From misconfigured s3 
+Download All Files From misconfigured s3 
 
 
 
