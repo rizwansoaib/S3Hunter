@@ -12,3 +12,16 @@ Crawl Files From misconfigured s3
           -c, --csv          Save in csv format
           -o, --output       Download All files in local Systems
 
+
+## Installation
+
+
+
+              git clone https://github.com/rizwansoaib/S3Hunter.git
+              cd S3Hunter
+              pip3 install -r requirements.txt
+              python3 s3hunter.py 
+              python3 arg.py -u s3url 
+
+
+          
