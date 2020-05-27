@@ -13,8 +13,8 @@ Download All Files From misconfigured s3
          optional arguments:
           -h, --help         show this help message and exit
          
-          -c, --csv          Save in csv format
-          -o, --output       Download All files in local Systems
+          -c, --csv          Save in csv format FileName,LastModified,Size 
+          -o, --output       Download All files in local System
 
 
 ## Installation
