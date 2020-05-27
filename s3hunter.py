@@ -71,7 +71,7 @@ def savetoCSV(metadata, filename):
 def main(): 
   my_parser = argparse.ArgumentParser()
   my_parser.add_argument('-u','--url', action='store',  required=True,help='url of S3 e.g. https://s3.ap-south-1.amazonaws.com/S3name/')
-  my_parser.add_argument('-csv','--csv', action='store_true',help='Save in csv format')
+  my_parser.add_argument('-c','--csv', action='store_true',help='Save in csv format')
   my_parser.add_argument('-o','--output', action='store_true',help='Download All files in local Systems')
   args = my_parser.parse_args()
   s3name=args.url
