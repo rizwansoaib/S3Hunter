@@ -19,6 +19,8 @@ Download All Files From misconfigured s3
 
 ## Installation
 
+ ![installation](https://user-images.githubusercontent.com/29729380/83110425-adf73800-a0e0-11ea-83df-ea3b1f009424.png)
+
 
 
               git clone https://github.com/rizwansoaib/S3Hunter.git
