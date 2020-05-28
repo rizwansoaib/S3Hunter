@@ -2,7 +2,7 @@
 Download All Files From misconfigured s3 
 
 ```console
-
+         foo@bar:~$ python3 s3hunter.py -h
          usage: python3 s3hunter.py [-h] -u URL [-csv] [-o]
          
          Mandotary arguments:
@@ -24,16 +24,16 @@ Download All Files From misconfigured s3
 
 ```console
 
-              git clone https://github.com/rizwansoaib/S3Hunter.git
-              cd S3Hunter
-              pip3 install -r requirements.txt
-              python3 s3hunter.py -u s3url 
+              foo@bar:~$ git clone https://github.com/rizwansoaib/S3Hunter.git
+              foo@bar:~$ cd S3Hunter
+              foo@bar:~$ pip3 install -r requirements.txt
+              foo@bar:~$ python3 s3hunter.py -u s3url 
   ```
               
   ## Example
   ```console
   
-               python3 s3hunter.py -u https://pys3hunter.s3.ap-south-1.amazonaws.com/ -c -o
+               foo@bar:~$ python3 s3hunter.py -u https://pys3hunter.s3.ap-south-1.amazonaws.com/ -c -o
   ```
 
                 
