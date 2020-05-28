@@ -1,7 +1,7 @@
 # S3Hunter
 Download All Files From misconfigured s3 
 
-     ```bash
+```bash
 
          usage: python3 s3hunter.py [-h] -u URL [-csv] [-o]
          
@@ -15,7 +15,7 @@ Download All Files From misconfigured s3
          
           -c, --csv          Save in csv format FileName,LastModified,Size 
           -o, --output       Download All files in local System
-          ```
+  ```
 
 
 ## Installation
