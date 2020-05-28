@@ -33,7 +33,7 @@ Download All Files From misconfigured s3
   ## Example
   ```bash
   
-               foo@bar:~$ python3 s3hunter.py -u https://pys3hunter.s3.ap-south-1.amazonaws.com/ -c -o
+               python3 s3hunter.py -u https://pys3hunter.s3.ap-south-1.amazonaws.com/ -c -o
   ```
 
                 
