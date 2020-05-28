@@ -1,7 +1,7 @@
 # S3Hunter
 Download All Files From misconfigured s3 
 
-```bash
+```console
 
          usage: python3 s3hunter.py [-h] -u URL [-csv] [-o]
          
@@ -22,7 +22,7 @@ Download All Files From misconfigured s3
 
  ![installation](https://user-images.githubusercontent.com/29729380/83110425-adf73800-a0e0-11ea-83df-ea3b1f009424.png)
 
-```bash
+```console
 
               git clone https://github.com/rizwansoaib/S3Hunter.git
               cd S3Hunter
@@ -31,7 +31,7 @@ Download All Files From misconfigured s3
   ```
               
   ## Example
-  ```bash
+  ```console
   
                python3 s3hunter.py -u https://pys3hunter.s3.ap-south-1.amazonaws.com/ -c -o
   ```
