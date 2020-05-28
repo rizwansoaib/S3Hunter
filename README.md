@@ -2,7 +2,7 @@
 Download All Files From misconfigured s3 
 
 ```bash
-         foo@bar:~$ python3 s3hunter.py -h
+        
          usage: python3 s3hunter.py [-h] -u URL [-csv] [-o]
          
          Mandotary arguments:
